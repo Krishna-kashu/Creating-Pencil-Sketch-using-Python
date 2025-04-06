@@ -85,10 +85,10 @@ Save as: output_sketch.jpg
 
 ## 📷 Sample Output
 
-Sample input/output previews are available in:
+Sample input and output previews are available in:
 
 - `Sample.pdf`
-- `pencilSketch.pdf`
+   
 
 ---
 
